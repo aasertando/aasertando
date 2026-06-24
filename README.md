@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/" target="www.linkedin.com/in/juan-mestra-pereira-18b9353a9">
+  <a href="https://www.linkedin.com/in/juan-mestra-pereira-18b9353a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:juampames4@gmail.com">
