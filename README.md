@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/juan-mestra-pereira-18b9353a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:juampames4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -21,8 +21,7 @@
 - 🛠️ Migrando mi proyecto de grado **Salas de Cómputo** de Java Swing a **Spring Boot + Thymeleaf**
 - 📊 Aprendiendo **análisis de datos** con Python (pandas, NumPy) en paralelo
 - 🎯 Buscando un **contrato de aprendizaje** o rol junior en tech
-- 🐧 Uso **Linux Mint** con GNOME Shell como entorno principal
-- 🎮 Cuando no programo, juego **Albion Online**
+- 🐧 Uso **Linux Mint** como entorno principal
 
 ---
 
